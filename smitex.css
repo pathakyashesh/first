@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: Merriweather;
+}
+h1{
+	margin-top: 50px;
+	font-family: Sacramento;
+	font-size: 562.5%;
+	color: #66BFBF;
+	line-height: 2;
+
+}
+h2{
+	font-family: Montserrat;
+	color: #66BFBF;
+
+
+}
+
+#h2{
+	font-family: Montserrat;
+	color: #66BFBF;
+	font-weight: normal;
+
+}
+h3{
+	font-family: Montserrat;
+	color: #11999E;
+
+
+}
+.top-container{
+	background-color: #EAF6F6;
+	position: relative;
+	padding-top : 150px;
+	font-family: Source Sans Pro;
+
+}
+
+.bottom-cloud{
+	
+	position: absolute;
+	left: 18.75rem;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 18.75rem;
+	top: 50px;
+	
+}
+.mountain1{
+	padding-top: 50px;
+	background-size: : 50px;
+	width: 40%;
+}
+.four-container{
+	margin-top: 20px;
+	background-color:  #66BFBF;
+	padding: 50px;
+	line-height: 3.5;
+
+}
+
+.three-container{
+text-align: center;
+font-weight: bold;
+line-height: 3;
+
+}
+
+span{
+	text-decoration: underline;
+}
+ 
+a{
+	color: #11999E;
+}
+.skills{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+.img-code{
+	width: 25%;
+	float: left;
+	padding-right: 25px;
+}
+.img-coffee{
+	width: 25%;
+	float: right;
+	padding-left: 20px;
+}
+.img-profile{
+	width: 40%;
+}
+
+.para{
+	line-height: 1;
+}
+.button{
+	margin: 30px;
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+
+}
+.button:hover {
+	background-color:#5cbf2a;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+	text-decoration: none;
+	padding: 20px;
+}
+#copy{
+	color: #EAF6F6;
+}
+.two-container{
+	text-align: center;
+	width: 40%;
+	margin:30px	auto 30px auto;
+}
